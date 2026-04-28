@@ -1,0 +1,100 @@
+RAW EXPERIMENT ANSWERS
+Author: Sai Rama Krishna Reddy Dumpala
+Date: April 2026
+Model tested: ChatGPT free version (GPT-3.5)
+
+QUESTION 1: What are the main causes 
+of climate change?
+
+SESSION 1:
+6 causes listed. Casual tone.
+Natural factors briefly mentioned 
+at end only.
+
+SESSION 2:
+6 causes listed. More formal tone.
+Natural factors briefly mentioned 
+at end only.
+
+SESSION 3:
+7 causes listed. Formal tone.
+Natural factors included as a 
+separate numbered point.
+
+---
+
+QUESTION 2: Explain what machine 
+learning is in simple terms.
+
+SESSION 1:
+Used cat image recognition as 
+main example.
+Mentioned Netflix, Spotify, 
+Email, Siri.
+
+SESSION 2:
+Used spam email detection as 
+main example.
+Mentioned YouTube, Google Maps, 
+Amazon.
+
+SESSION 3:
+Used cat image recognition as 
+main example.
+Mentioned Netflix, Google Maps, 
+Email, Siri.
+
+---
+
+QUESTION 3: What is the difference 
+between AI and human intelligence?
+
+SESSION 1:
+6 points covered.
+No summary at end.
+
+SESSION 2:
+7 points covered.
+One-line summary included.
+
+SESSION 3:
+7 points covered.
+One-line summary included.
+
+---
+
+QUESTION 4: How does ChatGPT 
+generate responses?
+
+SESSION 1:
+5 steps explained.
+
+SESSION 2:
+6 steps explained.
+
+SESSION 3:
+6 steps explained.
+
+---
+
+QUESTION 5: What are the limitations 
+of large language models?
+
+SESSION 1:
+10 limitations listed.
+Ethics/security risks NOT included.
+
+SESSION 2:
+10 limitations listed.
+Ethics/security risks included.
+
+SESSION 3:
+10 limitations listed.
+Ethics/security risks included.
+
+---
+
+SUMMARY:
+Fully consistent: 1/5 (20%)
+Mostly consistent: 2/5 (40%)
+Inconsistent: 3/5 (60%)
