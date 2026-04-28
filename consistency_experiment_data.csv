@@ -1,0 +1,16 @@
+Question,Session,Points_Count,Example_Used,Has_Summary,Consistent
+Climate Change,1,6,None,No,No
+Climate Change,2,6,None,No,No
+Climate Change,3,7,None,No,No
+Machine Learning,1,NA,Cat image,No,No
+Machine Learning,2,NA,Spam email,No,No
+Machine Learning,3,NA,Cat image,No,No
+AI vs Human,1,6,None,No,No
+AI vs Human,2,7,None,Yes,No
+AI vs Human,3,7,None,Yes,No
+ChatGPT Works,1,5,None,No,Mostly
+ChatGPT Works,2,6,None,No,Mostly
+ChatGPT Works,3,6,None,No,Mostly
+LLM Limitations,1,10,None,No,Mostly
+LLM Limitations,2,10,None,Yes,Mostly
+LLM Limitations,3,10,None,Yes,Mostly
