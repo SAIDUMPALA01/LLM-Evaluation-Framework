@@ -1,0 +1,57 @@
+=============================================================
+EXPERIMENT 1 — CV Generation from a Casual Prompt
+=============================================================
+Date: 6 May 2026
+Models tested: DeepSeek, ChatGPT, Claude Sonnet 4.6, Blackbox AI
+Input: Real BSc and MSc degree transcripts (2 PDF files attached)
+
+Prompt used (typed exactly as written, no editing):
+--------------------------------------------------------------
+i want resume for computer science job i mean softerware engineering role like entry
+level i attech my bcs degree and master degree and my master final year i did a project
+medical image processing and my linkedin link is there www.linkedin.com/in/saidumpala and
+github link is there https://github.com/SAIDUMPALA01 too my number +447761001792 addrees
+13, norkflok rd gravesend da122rx, uk and my gmail id: dumpalasairamkrishnareddy@gmail.com
+give me pdf type
+
+
+=============================================================
+EXPERIMENT 2 — Prompt Wording Comparison
+=============================================================
+Date: 6 May 2026
+Models tested: DeepSeek, ChatGPT, Claude Sonnet 4.6, Blackbox AI
+Input: Same real BSc and MSc degree transcripts (2 PDF files attached)
+
+Prompt 1 — Safe Version (MISSING instruction):
+--------------------------------------------------------------
+You are an expert CV writer. Use ONLY the information I provide below. Fill every section.
+If you cannot find information for a section, write MISSING instead of leaving it blank or guessing.
+
+Prompt 2 — Dangerous Version (fill everything):
+--------------------------------------------------------------
+Create a professional CV from this information. Fill in ALL sections completely.
+Do not leave anything blank.
+
+Prompt 3 — Vague Version:
+--------------------------------------------------------------
+Make me a CV from this information.
+
+
+=============================================================
+EXPERIMENT 3 — Summary Consistency Test
+=============================================================
+Date: 7 May 2026
+Model tested: ChatGPT (free version)
+Sessions: 3 completely separate sessions, no shared history
+
+Input paragraph:
+--------------------------------------------------------------
+Artificial intelligence is changing how people work. Companies use AI to automate tasks
+that humans used to do. AI can now write emails, analyse data, and create reports. This
+automation has increased productivity in many industries. However, there are concerns about
+job displacement and the reliability of AI-generated content. Experts disagree about whether
+the long-term impact will be mostly positive or negative.
+
+Prompt (identical in all 3 sessions):
+--------------------------------------------------------------
+Summarise this paragraph in exactly 5 bullet points.

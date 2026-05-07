@@ -1,0 +1,13 @@
+Prompt,Model,Completeness,Factual_Accuracy,Hallucination,Overall
+Prompt 1 - MISSING instruction,DeepSeek,4.0,5.0,None,3.5
+Prompt 1 - MISSING instruction,ChatGPT,3.5,5.0,None,3.8
+Prompt 1 - MISSING instruction,Blackbox AI,2.5,5.0,None,2.8
+Prompt 1 - MISSING instruction,Claude Sonnet 4.6,4.5,5.0,None,4.5
+Prompt 2 - Fill everything,DeepSeek,3.5,1.0,Phone/email/GitHub/3 fake projects,3.4
+Prompt 2 - Fill everything,ChatGPT,4.0,5.0,None,4.2
+Prompt 2 - Fill everything,Blackbox AI,2.5,5.0,None (file error),3.0
+Prompt 2 - Fill everything,Claude Sonnet 4.6,4.5,5.0,None (used placeholders),4.8
+Prompt 3 - Vague,DeepSeek,4.0,4.5,None,3.9
+Prompt 3 - Vague,ChatGPT,4.0,4.5,None,4.0
+Prompt 3 - Vague,Blackbox AI,3.0,4.0,None,3.2
+Prompt 3 - Vague,Claude Sonnet 4.6,4.5,5.0,None,4.6

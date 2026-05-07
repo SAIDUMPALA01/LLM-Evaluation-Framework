@@ -1,0 +1,12 @@
+Dimension,Session_1,Session_2,Session_3,Average
+Completeness,4,5,5,4.67
+Contextual_Utilisation,5,5,5,5.00
+Factual_Accuracy,4,5,5,4.67
+Confidence_Calibration,2,2,2,2.00
+Specification_Adherence,5,5,5,5.00
+Consistency_Overall,,,, 3.00
+
+Notes:
+Session 1 - Split automation examples into two bullets leaving only one bullet for job concerns AND expert disagreement. Expert disagreement weakened to vague "long-term effects".
+Session 2 - Kept automation in one bullet. Separate bullets for job concerns and expert disagreement. Clearly stated experts disagree.
+Session 3 - Same structure as Session 2. Consistent with Session 2 but different from Session 1.
